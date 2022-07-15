@@ -36,7 +36,6 @@
 ### Currently learning:
 
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-bb84eb?style=for-the-badge&logo=TYPESCRIPT)
-![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-bb84eb?style=for-the-badge&logo=NEXT.JS)
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kgudvin)](https://github.com/kGudvin/github-readme-stats)
